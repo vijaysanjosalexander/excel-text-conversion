@@ -1,6 +1,7 @@
 # Excel to text conversion
 Python utility to convert Excel files in .xlsx to plain text for Natural Language Processing. The utility will allow retaining the header information by adding the header to each and every cells in the excel file.
 
+
 Excel 
 --------------------------------------
 |ID | Name | Address  | Age | Gender |
@@ -9,6 +10,8 @@ Excel
  -------------------------------------
 | 2 | ASA  | Bangalore | 28 | Male   |
 --------------------------------------
+
+
 
 Converted Text
 ---------------
